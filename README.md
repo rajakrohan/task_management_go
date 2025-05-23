@@ -188,10 +188,3 @@ The service can be scaled horizontally by:
 ## Error Handling
 
 The service implements consistent error handling with appropriate HTTP status codes and error messages.
-
-## Testing
-
-Run tests using:
-```bash
-go test ./...
-```
